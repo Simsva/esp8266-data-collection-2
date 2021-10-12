@@ -1,4 +1,7 @@
-.pio
+.pio/
+.ccls-cache/
+
 .clang_complete
 .ccls
-.ccls_cache/
+
+src/secret.h
